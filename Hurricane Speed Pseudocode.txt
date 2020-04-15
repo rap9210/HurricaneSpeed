@@ -1,0 +1,13 @@
+Hurricane Speed:
+-Input Speed
+Is it 73mph or lower? Yes? > not a Hurricane
+If no:
+Is it between 74 and 95? Yes? > Assign Cat 1
+If no:
+Is it between 96mph and 110mph? Yes? > Assign Cat 2
+If no:
+Is it between 111mph and 129mph? Yes? > Assign Cat 3
+If no:
+Is it between 130 and 156? Yes? > Assign Cat 4
+If no:
+Is it 157 or higher? Yes? > Assign Cat 5
